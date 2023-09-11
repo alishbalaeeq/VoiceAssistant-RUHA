@@ -1,6 +1,6 @@
 # Roman Urdu Voice Assistant
 
-Roman Urdu Voice Assistant is an AI-powered voice assistant designed to understand and respond to voice commands in Roman Urdu. This project combines natural language processing and speech recognition technologies to provide users with a conversational interface.
+Roman Urdu Voice Assistant is an AI-powered voice assistant designed to understand and respond to voice commands in Roman Urdu. This project combines machine learning models for audio data processing and classification.
 
 ---
 
@@ -12,7 +12,7 @@ Roman Urdu Voice Assistant is an AI-powered voice assistant designed to understa
 
 ## Description
 
-Roman Urdu Voice Assistant is designed to make interactions with computers more intuitive and user-friendly for Urdu-speaking individuals. It understands voice commands and can perform various tasks, such as answering questions, providing weather updates, and playing music.
+Roman Urdu Voice Assistant is designed to make interactions with computers more intuitive and user-friendly for Urdu-speaking individuals. It understands voice commands and can perform various tasks, such as giving commands 'RUHA light on kardo'.
 
 ### Technologies Used
 
